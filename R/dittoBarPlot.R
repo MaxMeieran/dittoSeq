@@ -127,7 +127,7 @@
 #' @author Daniel Bunis
 #' @export
 
-dittoBarPlot <- function(
+mydittoBarPlot <- function(
     object,
     var,
     group.by,
